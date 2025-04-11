@@ -32,9 +32,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Trey-L/Trey-L/output/snake.svg" alt="Snake animation" />
-
-###
